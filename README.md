@@ -1,11 +1,14 @@
 <h1 align="center">🌈 Hello everyone! I'm Kiem Khang</h1>
 
+- I'm a student at Hanoi University of Science and Technology
+
 ## 📫 Contact me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/k.khang299) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khang-ki%C3%AAm-03035732b/)
-[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=white)](https://open.spotify.com/user/31yyrqah3q7gw4du3sfodz6i4xyy)
 
-
+## 🏆 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Cutecatttt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cutecatttt&theme=dark&hide_border=false)
 <!--
 **Cutecatttt/Cutecatttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
