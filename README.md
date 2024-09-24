@@ -1,7 +1,8 @@
 <h1 align="center">🌈 Hello everyone! I'm Kiem Khang</h1>
 
-
-## 📫 How to reach me: <a href="https://www.facebook.com/k.khang299">Facebook</a>
+## 📫 Contact me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/k.khang299) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khang-ki%C3%AAm-03035732b/)
 
 <!--
 **Cutecatttt/Cutecatttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
