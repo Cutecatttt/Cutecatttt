@@ -3,7 +3,7 @@
 - I'm a student at Hanoi University of Science and Technology
 
 ## 📫 Contact me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/k.khang299) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/khang.nk68) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khang-ki%C3%AAm-03035732b/)
 
 ## 🏆 GitHub Stats
